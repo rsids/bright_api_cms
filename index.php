@@ -19,8 +19,8 @@
 
 	<script type="text/javascript">
 		//<!--
-		var cmsdir = "/vendor/fur/bright_api_cms/";
-		var flashvars = {gateway:"/vendor/fur/bright_api/amf/gateway.php"};
+		var cmsdir = "/vendor/fur/bright/cms";
+		var flashvars = {gateway:"/vendor/fur/bright/api/amf/"};
 
 		var params = {showMenu:false};
 		var attributes = {}; 
