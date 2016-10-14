@@ -20,7 +20,7 @@
 	<script type="text/javascript">
 		//<!--
 		var cmsdir = "/vendor/fur/bright/cms";
-		var flashvars = {gateway:"/vendor/fur/bright/api/amf/"};
+		var flashvars = {gateway:"/bright/cms/gateway.php"};
 
 		var params = {showMenu:false};
 		var attributes = {}; 
